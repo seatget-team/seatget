@@ -1,0 +1,3 @@
+[submodule "brain"]
+	path = .brain
+	url = ../seatget-brain.git
