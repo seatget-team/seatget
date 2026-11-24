@@ -5,3 +5,4 @@
 - [첫 시연 범위](mvp.md)
 - [AI 작업 환경](ai-context.md)
 - [기술 결정 기록](adr/README.md)
+- [작업 기록 템플릿](work-log-template.md)
